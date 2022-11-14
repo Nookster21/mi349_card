@@ -24,8 +24,8 @@ h2 {
     border-radius: 15px;
     width: 400px;
     text-align: center;
-    box-shadow: rgb(0, 0, 0, 0.1) 0 0 20px;
-    border: 2px solid cornsilk;
+    box-shadow: rgb(0, 0, 0, 0.1) 10 10 1px;
+    border: 2px solid rgb(252, 220, 255);
 }
 
 .card .avatar {
