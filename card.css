@@ -4,7 +4,8 @@ body {
     margin-top: 100px;
 }
 
-img {
+.contacts .git
+{
     width: 100%;
 }
 
@@ -12,7 +13,9 @@ img {
     width: 25%;
 }
 
-
+.contacts .mail {
+    width: 25%;
+}
 
 h1 {
     margin: 15px 0;
