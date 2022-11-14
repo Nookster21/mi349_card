@@ -8,6 +8,14 @@ img {
     width: 100%;
 }
 
+.twit {
+    width: 50%;
+}
+
+.mail {
+    width: 50%;
+}
+
 h1 {
     margin: 15px 0;
 }
