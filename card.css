@@ -4,18 +4,15 @@ body {
     margin-top: 100px;
 }
 
-.contacts .git
-{
+img {
     width: 100%;
 }
 
 .contacts .twit {
-    width: 25%;
+    width: 18%;
 }
 
-.contacts .mail {
-    width: 25%;
-}
+
 
 h1 {
     margin: 15px 0;
